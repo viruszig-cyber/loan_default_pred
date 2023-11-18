@@ -33,6 +33,7 @@ if (selected == 'Loan Default Prediction'):
     
     # page title
     st.title('Loan Prediction using ML')
+    st.text('theVirus')
     
     
     # getting the input data from the user
