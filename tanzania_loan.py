@@ -55,7 +55,7 @@ if (selected == 'Loan Default Prediction'):
     
     # creating a button for Prediction
     
-    if st.button('Diabetes Test Result'):
+    if st.button('Loan Test Result'):
         diab_prediction = tanzania_loan_pred.predict([[loannumber, loanamount, totaldue, termdays]])
         
         if (diab_prediction[0] == 1):
