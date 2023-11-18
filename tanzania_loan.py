@@ -33,7 +33,10 @@ if (selected == 'Loan Default Prediction'):
     
     # page title
     st.title('Loan Prediction using ML')
-    st.text('theVirus')
+    st.subheader('theVirus')
+    st.subheader('Fadzai CHitengu')
+    st.subheader('Priviledge Murombeka')
+    
     
     
     # getting the input data from the user
