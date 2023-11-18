@@ -34,8 +34,8 @@ if (selected == 'Loan Default Prediction'):
     # page title
     st.title('Loan Prediction using ML')
     st.subheader('theVirus')
-    st.subheader('Fadzai CHitengu')
-    st.subheader('Priviledge Murombeka')
+    st.text('Fadzai CHitengu')
+    st.text('Priviledge Murombeka')
     
     
     
