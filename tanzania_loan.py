@@ -11,7 +11,7 @@ from streamlit_option_menu import option_menu
 
 # loading the saved models
 
-tanzania_loan_pred = pickle.load(open('C:/Users/Chigerwe/Desktop/loan/tanzania_loan_pred.sav', 'rb'))
+tanzania_loan_pred = pickle.load(open('tanzania_loan_pred.sav', 'rb'))
 
 
 
